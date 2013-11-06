@@ -15,7 +15,7 @@ int main(int argc, const char * argv[])
     std::cout << "Hello, World!\n";
     
     for(int i = 0; i < 10; i++){
-        std::cout << "helff flo world!" << std::endl;
+        std::cout << "hello world!" << std::endl;
     }
     return 0;
 }
